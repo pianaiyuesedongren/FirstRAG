@@ -1,0 +1,14 @@
+# 密钥文件
+Cheer/config/Keys.json
+
+# Chroma 数据库
+Cheer/chroma_couplet_db/
+Cheer/chroma_couplet_db_tongyi-embedding-vision-plus-*/
+*.sqlite3
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# PyCharm配置
+.idea/
